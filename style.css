@@ -1,0 +1,21 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+header{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    height: 50px;
+    width: 100px;
+}
+
+.calculator-container{
+    background-color: orangered;
+    display: grid;
+    border-radius: 10px;
+    height: 500px;
+    width: 500px;
+}
